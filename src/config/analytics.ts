@@ -1,0 +1,4 @@
+export const analyticsConfig = {
+  GOOGLE_ANALYTICS_MEASUREMENT_ID: 'G-YS7KHHWB1G',
+  GOOGLE_ANALYTICS_ACCESS_TOKEN: ''
+}
